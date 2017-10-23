@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "tests/test.js"
+    "test": "mocha tests/test.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/oluwafemibello/Raindrops#readme",
   "dependencies": {
+    "chai": "^4.1.2",
     "mocha": "^4.0.1"
   }
 }
