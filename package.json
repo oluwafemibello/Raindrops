@@ -1,0 +1,29 @@
+{
+  "name": "raindrops",
+  "version": "1.0.0",
+  "description": "simple program to run test",
+  "main": "src/main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oluwafemibello/Raindrops.git"
+  },
+  "keywords": [
+    "TDD",
+    "Javascript"
+  ],
+  "author": "Oluwafemi Bello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oluwafemibello/Raindrops/issues"
+  },
+  "homepage": "https://github.com/oluwafemibello/Raindrops#readme",
+  "dependencies": {
+    "mocha": "^4.0.1"
+  }
+}
